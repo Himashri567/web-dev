@@ -1,0 +1,54 @@
+body{
+    margin: 50px;
+}
+ul{
+    list-style: none;
+    padding: 30px;
+    background-color: blue;
+}
+li{
+    display: inline;
+    margin: 75px;
+}
+li a{
+    color:white;
+    text-decoration: none;
+}
+li a:hover{
+    color: crimson;
+}
+img{
+    border-radius: 8px;
+}
+.headings{
+    font-family: 'Yeseva One', cursive;
+    text-align: center;
+    font-size: 25px;
+}
+#special{
+    text-align: right;
+    font-size: 15px;
+}
+.image_container{
+   text-align: center;
+}
+.image_container:hover{
+    border: 1px solid blue;
+}
+.para{
+    font-size: 15px;
+    color: crimson;
+}
+/*#writeup{
+    text-align: right;
+    font-size: 30px ;
+}*/
+.info{
+    font-size: 50px;
+    font-family:'Montserrat', sans-serif ;
+    color: blueviolet;
+}
+h3{
+    text-align: center;
+    font-size: 50px;
+}
